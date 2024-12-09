@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my name is _____.
+=======
+i am switching in master.
+>>>>>>> master
